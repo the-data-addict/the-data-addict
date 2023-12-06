@@ -1,10 +1,7 @@
 import pandas as pd
 import streamlit as st
 import numpy as np
-import seaborn as sns;
 
-sns.set()
-import time
 
 st.title(
     "Uber Pick ups in NYC"
